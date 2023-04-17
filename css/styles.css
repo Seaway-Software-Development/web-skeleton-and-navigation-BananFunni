@@ -1,0 +1,52 @@
+*, *:after {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body{
+color: #FAF0CA;
+}
+
+h1{
+color: #0D3B66;
+text-align: center;
+}
+
+h2{
+color: #0D3B66;
+text-align: center;
+}
+
+blockquote{
+color: #0D3B66;
+font-size: 1.75em;
+text-align: center;
+}
+
+table{
+margin: 45%;
+}
+
+header{
+background-color: #FAF0CA;
+}
+
+nav{
+background-color: #FAF0CA;
+}
+
+ul li{
+display: inline-block;
+}
+
+a{
+color: #0D3B66;
+font-size: 1.25em;
+text-align: center;
+}
+
+a:hover{
+color: #F4D35E;
+font-size: 1.5em;
+}
