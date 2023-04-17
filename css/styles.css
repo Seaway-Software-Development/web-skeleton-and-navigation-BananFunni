@@ -34,17 +34,21 @@ background-color: #FAF0CA;
 
 nav{
 background-color: #FAF0CA;
+text-align: center;
+}
+
+#fNav{
+background-color: #FAF0CA;
+text-align: center;
 }
 
 ul li{
 display: inline-block;
-text-align: center;
 }
 
 a{
 color: #0D3B66;
 font-size: 1.25em;
-text-align: center;
 }
 
 a:hover{
