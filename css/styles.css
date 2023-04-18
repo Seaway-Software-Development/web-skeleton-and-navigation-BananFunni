@@ -40,11 +40,6 @@ border: #0D3B66 thick solid;
 
 }
 
-#fNav{
-background-color: #F4D35E;
-text-align: center;
-border: #0D3B66 thick solid;
-}
 
 ul li{
 display: inline-block;
@@ -97,4 +92,10 @@ padding-bottom: 150px;
 .container{
     width: 80%;
     text-align: center;
+}
+
+#fNav{
+background-color: #F4D35E;
+text-align: center;
+border: #0D3B66 thick solid;
 }
