@@ -30,16 +30,20 @@ margin-left: 45%;
 
 header{
 background-color: #FAF0CA;
+padding: 800px;
 }
 
 nav{
-background-color: #FAF0CA;
+background-color: #F4D35E;
 text-align: center;
+border: #0D3B66 thick solid;
+
 }
 
-#fNav{
-background-color: #FAF0CA;
+.fNav{
+background-color: #F4D35E;
 text-align: center;
+border: #0D3B66 thick solid;
 }
 
 ul li{
@@ -48,7 +52,13 @@ display: inline-block;
 
 a{
 color: #0D3B66;
-font-size: 1.25em;
+font-size: 2.5em;
+}
+
+footer{
+position: absolute;
+bottom: 0;
+padding: 500px;
 }
 
 a:hover{
@@ -59,4 +69,32 @@ font-size: 1.5em;
 p{
 color: #F4D35E;
 text-align: center;
+font-size: 2.5em;
+text-justify: inter-word;
+}
+
+.Hehe{
+padding-left: 20%;
+padding-right: 20%;
+padding-top: 150px;
+padding-bottom: 150px;
+}
+
+.HarHar{
+padding-left: 20%;
+padding-right: 20%;
+padding-top: 150px;
+padding-bottom: 150px;
+}
+
+.HeHeHarHar{
+padding-left: 20%;
+padding-right: 20%;
+padding-top: 150px;
+padding-bottom: 150px;
+}
+
+.container{
+    width: 80%;
+    text-align: center;
 }
