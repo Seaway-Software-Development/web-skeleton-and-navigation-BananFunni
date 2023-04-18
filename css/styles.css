@@ -40,7 +40,7 @@ border: #0D3B66 thick solid;
 
 }
 
-.fNav{
+#fNav{
 background-color: #F4D35E;
 text-align: center;
 border: #0D3B66 thick solid;
@@ -62,7 +62,7 @@ padding: 500px;
 }
 
 a:hover{
-color: #F4D35E;
+color: #0D3B66;
 font-size: 1.5em;
 }
 
