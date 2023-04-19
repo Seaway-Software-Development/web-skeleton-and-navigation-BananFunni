@@ -40,8 +40,9 @@ border: #0D3B66 thick solid;
 }
 
 
-ul li{
+li{
 display: inline-block;
+text-align: center;
 }
 
 a{
