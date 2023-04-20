@@ -4,4 +4,17 @@
     grid-template-rows: 1fr;
     grid-column-gap: 50px;
     grid-row-gap: 0px;
+    grid-template-areas: "cybersecurity softwareEngineer technicalSupport";
     }
+
+#cybersecurity {
+    background-color: #0D3B66;
+}
+
+#softwareEngineer {
+    background-color: #F4D35E;
+}
+
+#technicalSupport {
+    background-color: #0D3B66;
+}

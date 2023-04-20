@@ -5,97 +5,98 @@
 }
 
 body{
-color: #FAF0CA;
+    color: #FAF0CA;
 }
 
 h1{
-color: #0D3B66;
-text-align: center;
+    color: #0D3B66;
+    text-align: center;
 }
 
 h2{
-color: #0D3B66;
-text-align: center;
+    color: #0D3B66;
+    text-align: center;
 }
 
 blockquote{
-color: #0D3B66;
-font-size: 1.75em;
-text-align: center;
+    color: #0D3B66;
+    font-size: 1.75em;
+    text-align: center;
 }
 
-
-
 header{
-background-color: #FAF0CA;
-padding: 800px;
+    background-color: #FAF0CA;
+    padding: 800px;
 }
 
 nav{
-display: inline-block;
-background-color: #F4D35E;
-text-align: center;
-border: #0D3B66 thick solid;
-width: 80%;
-
+    display: inline-block;
+    background-color: #F4D35E;
+    text-align: center;
+    border: #0D3B66 thick solid;
+    width: 80%;
 }
 
 
- nav ul li{
-display: inline-block;
-text-align: center;
+nav ul li{
+    display: inline-block;
+    text-align: center;
 }
 
 a{
-color: #0D3B66;
-font-size: 2.5em;
+    color: #0D3B66;
+    font-size: 2.5em;
 }
 
 
 a:hover{
-color: #0D3B66;
-font-size: 3em;
+    color: #0D3B66;
+    font-size: 3em;
 }
 
 p{
-color: #F4D35E;
-text-align: center;
-font-size: 2.5em;
-text-justify: inter-word;
+    color: #F4D35E;
+    text-align: center;
+    font-size: 2.5em;
+    text-justify: inter-word;
 }
 
 .Hehe{
-padding-left: 20%;
-padding-right: 20%;
-padding-top: 150px;
-padding-bottom: 150px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    font-size: 2.5em;
 }
 
 .HarHar{
-padding-left: 20%;
-padding-right: 20%;
-padding-top: 150px;
-padding-bottom: 150px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    font-size: 2.5em;
 }
 
 .HeHeHarHar{
-padding-left: 20%;
-padding-right: 20%;
-padding-top: 150px;
-padding-bottom: 150px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    font-size: 2.5em;
 }
 
 .container{
     width: 80%;
     text-align: center;
+    font-size: 2.5em;
 }
 
 table{
-margin-left: 45%;
+    margin-left: 45%;
 }
 
 footer{
-padding: 500px;
+    padding: 500px;
 }
 
 .box{
