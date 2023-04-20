@@ -21,3 +21,45 @@
     background-color: #0D3B66;
     color: #F4D35E;
 }
+
+
+
+.grid-container2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    grid-template-areas: "chad chadster chadstein"
+    "chadman chadler chadson";
+    }
+
+    #chad{
+        background-color: #0D3B66;
+        color: #F4D35E;
+    }
+
+    #chadster{
+        background-color: #0D3B66;
+        color: #F4D35E;
+    }
+
+    #chadstein{
+        background-color: #0D3B66;
+        color: #F4D35E;
+    }
+
+    #chadman{
+        background-color: #0D3B66;
+        color: #F4D35E;
+    }
+
+    #chadler{
+        background-color: #0D3B66;
+        color: #F4D35E;
+    }
+
+    #chadson{
+        background-color: #0D3B66;
+        color: #F4D35E;
+    }
